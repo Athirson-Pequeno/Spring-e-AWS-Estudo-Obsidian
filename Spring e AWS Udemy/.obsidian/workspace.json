@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "b4b2f8c88e4ea3bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d1391dd21bae5a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52cfdcd9e9bb7411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definições/JUnit 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3237a39a108789a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sumário.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a0714fa87df88c2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquivos/Imagens/Pasted image 20240228192915.png"
+              }
+            }
+          },
+          {
+            "id": "7c65edae52e1618e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3cb5392c7d1c1f34",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquivos/Imagens/Pasted image 20240228192824.png"
+              }
+            }
+          },
+          {
+            "id": "8c7f3e8b8c13df96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definições/Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26e9eb90b704da4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de79327aa8d23d1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb0a56a6d9f48b32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "410101fe158073a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8331084e3fbdcb4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39a8b3eade6c5ca9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8495637ab8790d60",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca8e6a86b98779bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b95227647403bed3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fc5a4568cce4a14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e8cfe9a05357559",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc3c6c9c97ed066d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7c65edae52e1618e",
+  "lastOpenFiles": [
+    "Definições/Testcontainers.md",
+    "Sumário.md",
+    "Fase 1 - Fundamentos Teórico do REST/REST.md",
+    "Definições/API RESTFul.md",
+    "Definições/REST Assured.md",
+    "Fase 1 - Fundamentos Teórico do REST/O que são WebServices.md",
+    "Arquivos/Imagens/Pasted image 20240228193036.png",
+    "Arquivos/Imagens/Pasted image 20240228192915.png",
+    "Arquivos/Imagens/Pasted image 20240228192824.png",
+    "Pasted image 20240228192801.png",
+    "Arquivos/Imagens",
+    "Arquivos",
+    "Arquivos/Imagens/Pasted image 20240228192525.png",
+    "Fase 1 - Fundamentos Teórico do REST",
+    "Links Utéis.md",
+    "Arquivos/PDFS/Guia Básico de GIT.pdf",
+    "Arquivos/PDFS",
+    "Testes.md",
+    "Definições/Swagger.md",
+    "Definições/JWT.md",
+    "Definições/Docker.md",
+    "Definições/AWS.md",
+    "Definições/Mockito.md",
+    "Definições/JUnit 5.md",
+    "Definições/HATEOAS.md",
+    "Definições"
+  ]
+}

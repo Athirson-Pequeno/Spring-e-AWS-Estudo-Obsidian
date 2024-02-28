@@ -1,0 +1,1 @@
+Testcontainers **é uma biblioteca para instrumentar contêineres Docker para usá-los como parte de seus testes**. Ela usa a API Docker para fornecer instâncias leves e descartáveis de bancos de dados comuns, driver da web Selenium ou qualquer coisa que você possa executar em um contêiner Docker.

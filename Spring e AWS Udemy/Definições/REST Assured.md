@@ -1,0 +1,3 @@
+RestAssured, uma biblioteca que permite testar serviços Rest em Java. Ela provê uma maneira de criar chamadas HTTP sendo executada em conjunto com o _framework_ JUnit, que permite estruturar os testes.
+
+Enquanto utilizamos o JUnit para definir os métodos de teste, através da anotação _@Test_, o RestAssured efetua chamadas HTTP, obtém o retorno do serviço e realiza validações a partir da resposta. Neste artigo, vou explicar como utilizar tal biblioteca, na prática.
