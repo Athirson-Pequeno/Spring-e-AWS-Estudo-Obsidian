@@ -18,3 +18,18 @@ https://github.com/leandrocgsi/RestWithSpringBootUdemy
 [HTTP Status Codes](https://www.restapitutorial.com/httpstatuscodes.html)
 [Dzone](https://dzone.com/refcardz/rest-foundations-restful?chapter=5)
 [HTTP Status Codes em Serviços REST](http://www.semeru.com.br/blog/http-status-codes-em-servicos-rest/)
+
+
+## Níveis De Maturidade REST
+
+https://www.crummy.com/writing/speaking/2008-QCon/act3.html
+https://www.boaglio.com/index.php/2016/11/03/modelo-de-maturidade-de-richardson-os-passos-para-a-gloria-do-rest/
+https://dzone.com/refcardz/rest-foundations-restful?chapter=3
+https://martinfowler.com/articles/richardsonMaturityModel.html
+
+
+#### HATEOAS - Fase 1
+
+**http://restcookbook.com/Basics/hateoas/
+https://nordicapis.com/tools-to-make-hateoas-compliance-easier/
+http://www.semeru.com.br/blog/en/**

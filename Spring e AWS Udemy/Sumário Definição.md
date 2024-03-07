@@ -1,0 +1,15 @@
+---
+tags:
+  - Navegação
+---
+- 1 [[HATEOAS]]
+- 2 [[Testes]]
+	- 1  [[JUnit 5]]
+	- 2 [[Mockito]]
+	- 3 [[REST Assured]]
+	- 4 [[Testcontainers]]
+- 3 [[AWS]]
+- 4 [[Docker]]
+- 5 [[Swagger]]
+- 6 [[JWT]]
+- 7 [[API RESTFul]]

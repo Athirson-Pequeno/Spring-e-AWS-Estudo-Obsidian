@@ -165,3 +165,42 @@ Para ter uma noção de como funciona é legal fazer uma comparação com CRUD(C
 
 ![[Pasted image 20240229185957.png]]
 
+
+
+## Níveis De Maturidade REST
+
+Links:
+
+https://www.crummy.com/writing/speaking/2008-QCon/act3.html
+https://www.boaglio.com/index.php/2016/11/03/modelo-de-maturidade-de-richardson-os-passos-para-a-gloria-do-rest/
+https://dzone.com/refcardz/rest-foundations-restful?chapter=3
+https://martinfowler.com/articles/richardsonMaturityModel.html
+ [[HATEOAS - FASE 1]]
+
+
+RESTFul é o maior nível do REST, o REST está incluso no RESTFul
+#### Nível 0 - Pântano de XML (The Swamp of POX)
+
+Imagine que você tem uma oficina e tem uma API Rest, responsável por gravar clientes, gravar peças, gravar pedidos, gravar chamados, gravar as ordens de serviços. E está tudo amontoado em um único endpoint que lhe permite gerir todos os aspectos da sua empresa.
+
+#### Nível 1 - Recursos 
+
+Nesse ponto, as informações já estão organizadas por recursos e voltando ao exemplo da oficina, agora já existe um endpoint para gravar clientes, um endpoint para gravar fornecedor, um endpoint para abrir ordens de serviço, outro endpoint para gerir equipamentos e por aí vai.
+
+As coisas já estão um pouco mais organizadas, mas ainda não existe uma preocupação com usar os verbos adequados a cada situação.
+
+#### Nível 2 - Verbos HTTP
+
+No nível dois, os verbos http, como o get, o post, o push e o delete passam a ser usados, além de separar a informação por recursos como você já deve ter notado e incremental. Não se chega ao nível dois sem passar pelo nível um e não se chega ao nível três sem passar pelo nível dois. Logo, o nível um tem todas as melhorias em cima do que tem no zero. Já o nível dois tem uma melhoria em cima de tudo que tem.
+
+#### Nível 3 - Hypermedia Controls 
+
+Imagine por exemplo que eu tenho acesso a uma listagem de pessoas e cada pessoa da lista tem um link que me permite acessar as informações da pessoa específica. E no recurso pessoa eu tenho os links para as operações que eu posso realizar. No recurso de pessoas, por exemplo, ele me retorna o link que eu posso usar para deletar, para fazer um update, para cadastro novo, para listar etc.
+
+
+O último nível é o Nível 3
+
+==*ATENÇÃO*==
+
+![[Pasted image 20240305174650.png]]
+

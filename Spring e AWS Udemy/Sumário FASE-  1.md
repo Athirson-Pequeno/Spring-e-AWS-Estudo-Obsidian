@@ -1,0 +1,11 @@
+---
+tags:
+  - Navegação
+---
+- [[O que são WebServices]]
+- [[REST]]
+- [[HATEOAS - FASE 1]]
+- [[SWAGGER - FASE 1]]
+- [[Autenticação - FASE 1]]
+- [[Versionamento]]
+- 
