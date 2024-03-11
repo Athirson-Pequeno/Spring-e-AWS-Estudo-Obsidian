@@ -8,71 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c65edae52e1618e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fase 1 - Fundamentos Teórico do REST/REST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "740f62222eab1ca5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Arquivos/Imagens/Pasted image 20240305183355.png"
-              }
-            }
-          },
-          {
-            "id": "1bd29184c71b53df",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Arquivos/Imagens/Pasted image 20240307084820.png"
-              }
-            }
-          },
-          {
             "id": "84f7ff4d406510e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sumário Definição.md",
+                "file": "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Criando o primeiro endpoint.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ab1f327c181843f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sumário FASE-  1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4efb30b8db4c4eb5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sumário Definição.md",
+                "file": "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Criando o primeiro endpoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sumário Definição.md",
+                "file": "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Criando o primeiro endpoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sumário Definição.md"
+                "file": "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Criando o primeiro endpoint.md"
               }
             }
           }
@@ -202,34 +149,40 @@
   },
   "active": "84f7ff4d406510e1",
   "lastOpenFiles": [
-    "Sumário FASE-  1.md",
+    "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Maven e pom.xml.md",
+    "Arquivos/Imagens/Pasted image 20240311195627.png",
+    "Arquivos/Imagens/Pasted image 20240311195519.png",
+    "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Criando o primeiro endpoint.md",
+    "Sumário FASE-2.md",
+    "Fase 1 - Fundamentos Teórico do REST/REST.md",
+    "Links Utéis.md",
+    "Arquivos/Imagens/Pasted image 20240311182308.png",
+    "Arquivos/Imagens/Pasted image 20240311183306.png",
+    "Arquivos/Imagens/Pasted image 20240311183221.png",
+    "Arquivos/Imagens/Pasted image 20240311183101.png",
+    "Arquivos/Imagens/Pasted image 20240311182921.png",
+    "Arquivos/Imagens/Pasted image 20240311182655.png",
+    "Arquivos/Imagens/Pasted image 20240311181409.png",
+    "Arquivos/Imagens/Pasted image 20240311181529.png",
+    "Sumário FASE-1.md",
     "Sumário Definição.md",
     "Sumário.md",
-    "Definições/API RESTFul.md",
-    "Arquivos/Imagens/Pasted image 20240307103321.png",
-    "Fase 1 - Fundamentos Teórico do REST/Versionamento.md",
-    "Arquivos/Imagens/Pasted image 20240307103955.png",
-    "Arquivos/Imagens/Pasted image 20240307103818.png",
-    "Arquivos/Imagens/Pasted image 20240307103637.png",
-    "Arquivos/Imagens/Pasted image 20240307103440.png",
-    "Testes.md",
+    "Definições/Spring Boot.md",
     "Sem título.canvas",
+    "Fase 1 - Fundamentos Teórico do REST/Boas práticas.md",
+    "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18",
+    "Definições/API RESTFul.md",
+    "Fase 1 - Fundamentos Teórico do REST/Versionamento.md",
+    "Testes.md",
     "2024-03-07.md",
     "Fase 1 - Fundamentos Teórico do REST/Autenticação - FASE 1.md",
     "Definições/Testcontainers.md",
     "Definições/JWT.md",
-    "Arquivos/Imagens/Pasted image 20240307085300.png",
-    "Arquivos/Imagens/Pasted image 20240305183355.png",
-    "Arquivos/Imagens/Pasted image 20240307084820.png",
     "Fase 1 - Fundamentos Teórico do REST/SWAGGER - FASE 1.md",
     "Fase 1 - Fundamentos Teórico do REST/HATEOAS - FASE 1.md",
     "Fase 1 - Fundamentos Teórico do REST/O que são WebServices.md",
-    "Fase 1 - Fundamentos Teórico do REST/REST.md",
     "Definições/Swagger.md",
     "Definições/HATEOAS.md",
-    "Links Utéis.md",
-    "Arquivos/Imagens/Pasted image 20240305174650.png",
-    "Arquivos/Imagens/Pasted image 20240229185609.png",
     "Definições/JUnit 5.md",
     "Definições/Docker.md",
     "Definições/REST Assured.md",
@@ -238,8 +191,6 @@
     "Fase 1 - Fundamentos Teórico do REST",
     "Arquivos/PDFS/Guia Básico de GIT.pdf",
     "Arquivos/PDFS",
-    "Definições/AWS.md",
-    "Definições/Mockito.md",
     "Definições"
   ]
 }

@@ -204,3 +204,26 @@ O último nível é o Nível 3
 
 ![[Pasted image 20240305174650.png]]
 
+
+## Além do RESTFul
+
+1 - Limitar Requests, isso ajuda no faturamento das API
+
+https://www.keycdn.com/support/rate-limiting
+https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/
+https://cloud.google.com/solutions/rate-limiting-strategies-techniques
+https://blog.cloudflare.com/counting-things-a-lot-of-different-things/
+https://www.cloudflare.com/learning/bots/what-is-rate-limiting/
+https://www.ibm.com/support/knowledgecenter/SSPREK_9.0.7/com.ibm.isam.doc/config/concept/c_ratelim.html
+https://develop.zendesk.com/hc/en-us/articles/360001074328-Best-practices-for-avoiding-rate-limiting
+
+C#
+
+https://github.com/stefanprodan/AspNetCoreRateLimit
+https://github.com/search?l=C%23&q=rate+limit+api&type=Repositories
+
+Java
+
+https://github.com/search?l=Java&q=rate+limit+api&type=Repositories
+
+2 - Criar um SDK, ajuda aos desenvolvedores usarem sua API mais facilmente, sempre deve atualizar o SDK ao fazer uma alteração na API
