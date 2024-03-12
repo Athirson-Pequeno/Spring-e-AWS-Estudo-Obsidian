@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Criando o primeiro endpoint.md",
+                "file": "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Entendendo as Annotations @RestController, @RequestMapping e @PathVariable.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Criando o primeiro endpoint.md",
+                "file": "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Entendendo as Annotations @RestController, @RequestMapping e @PathVariable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Criando o primeiro endpoint.md",
+                "file": "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Entendendo as Annotations @RestController, @RequestMapping e @PathVariable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Criando o primeiro endpoint.md"
+                "file": "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Entendendo as Annotations @RestController, @RequestMapping e @PathVariable.md"
               }
             }
           }
@@ -149,12 +149,13 @@
   },
   "active": "84f7ff4d406510e1",
   "lastOpenFiles": [
+    "Fase 1 - Fundamentos Teórico do REST/REST.md",
+    "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Entendendo as Annotations @RestController, @RequestMapping e @PathVariable.md",
+    "Sumário FASE-2.md",
+    "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Criando o primeiro endpoint.md",
     "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Maven e pom.xml.md",
     "Arquivos/Imagens/Pasted image 20240311195627.png",
     "Arquivos/Imagens/Pasted image 20240311195519.png",
-    "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Criando o primeiro endpoint.md",
-    "Sumário FASE-2.md",
-    "Fase 1 - Fundamentos Teórico do REST/REST.md",
     "Links Utéis.md",
     "Arquivos/Imagens/Pasted image 20240311182308.png",
     "Arquivos/Imagens/Pasted image 20240311183306.png",

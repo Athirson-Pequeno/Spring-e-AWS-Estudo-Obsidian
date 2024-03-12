@@ -68,7 +68,6 @@ asc - parâmetro para ordenar a lista
 10 - numero de itens na pagina
 1 - página para ser renderizada
 
-
 **Query Params** - não são obrigatórios
 
 _o trecho destacado representa os Query Params dessa URL_
