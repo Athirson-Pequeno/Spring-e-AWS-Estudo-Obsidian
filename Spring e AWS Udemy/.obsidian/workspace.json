@@ -47,12 +47,28 @@
             "id": "9934856d66415ade",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sumário FASE-3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "828c120ce2aacc66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Serializar yml (yaml).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Serializar yml (yaml).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Serializar yml (yaml).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Serializar yml (yaml).md"
+              }
             }
           }
         ]
@@ -175,14 +195,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9934856d66415ade",
+  "active": "828c120ce2aacc66",
   "lastOpenFiles": [
-    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/MySQL.md",
-    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Value Object.md",
-    "Sumário FASE-3.md",
+    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Content Negotiations.md",
+    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Serializar yml (yaml).md",
+    "Arquivos/Imagens/Pasted image 20240418174911.png",
     "Sumário.md",
-    "Arquivos/Imagens/Pasted image 20240327190859.png",
+    "Sumário FASE-3.md",
+    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Value Object.md",
     "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Service.md",
+    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/MySQL.md",
+    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Migrations.md",
+    "Arquivos/Imagens/Pasted image 20240418164350.png",
+    "Arquivos/Imagens/Pasted image 20240418164252.png",
+    "Arquivos/Imagens/Pasted image 20240327190859.png",
     "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot",
     "Sumário FASE-2.md",
     "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18/Criando o primeiro endpoint.md",
@@ -197,9 +223,6 @@
     "Arquivos/Imagens/Pasted image 20240311182308.png",
     "Arquivos/Imagens/Pasted image 20240311183306.png",
     "Arquivos/Imagens/Pasted image 20240311183221.png",
-    "Arquivos/Imagens/Pasted image 20240311183101.png",
-    "Arquivos/Imagens/Pasted image 20240311182921.png",
-    "Arquivos/Imagens/Pasted image 20240311182655.png",
     "Sumário FASE-1.md",
     "Sumário Definição.md",
     "Definições/Spring Boot.md",
@@ -213,9 +236,6 @@
     "Fase 1 - Fundamentos Teórico do REST/Autenticação - FASE 1.md",
     "Definições/Testcontainers.md",
     "Definições/JWT.md",
-    "Fase 1 - Fundamentos Teórico do REST/SWAGGER - FASE 1.md",
-    "Fase 1 - Fundamentos Teórico do REST/HATEOAS - FASE 1.md",
-    "Fase 1 - Fundamentos Teórico do REST/O que são WebServices.md",
     "Arquivos/Imagens",
     "Arquivos",
     "Fase 1 - Fundamentos Teórico do REST",
