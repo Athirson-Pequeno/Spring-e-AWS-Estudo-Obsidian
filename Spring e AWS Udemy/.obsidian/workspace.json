@@ -61,14 +61,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Serializar yml (yaml).md",
+                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Implementando HATEOAS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b35ab885f64143e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Implementando HATEOAS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55d81cc5c4d382f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definições/API RESTFul.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efea94fb4f4a18f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Swagger.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Serializar yml (yaml).md",
+                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Swagger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Serializar yml (yaml).md",
+                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Swagger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Serializar yml (yaml).md"
+                "file": "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Swagger.md"
               }
             }
           }
@@ -195,13 +231,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "828c120ce2aacc66",
+  "active": "efea94fb4f4a18f0",
   "lastOpenFiles": [
-    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Content Negotiations.md",
+    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Implementando HATEOAS.md",
+    "Sumário Definição.md",
+    "Sumário FASE-3.md",
+    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Swagger.md",
+    "Definições/@Bean.md",
+    "Definições/API RESTFul.md",
+    "Arquivos/Imagens/Pasted image 20240424164120.png",
+    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Mockito.md",
+    "Arquivos/Imagens/Pasted image 20240424164038.png",
+    "Definições/HATEOAS.md",
+    "Fase 1 - Fundamentos Teórico do REST/HATEOAS - FASE 1.md",
     "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Serializar yml (yaml).md",
+    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Content Negotiations.md",
     "Arquivos/Imagens/Pasted image 20240418174911.png",
     "Sumário.md",
-    "Sumário FASE-3.md",
     "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Value Object.md",
     "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Service.md",
     "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/MySQL.md",
@@ -221,21 +267,11 @@
     "Arquivos/Imagens/Pasted image 20240311195519.png",
     "Links Utéis.md",
     "Arquivos/Imagens/Pasted image 20240311182308.png",
-    "Arquivos/Imagens/Pasted image 20240311183306.png",
-    "Arquivos/Imagens/Pasted image 20240311183221.png",
     "Sumário FASE-1.md",
-    "Sumário Definição.md",
     "Definições/Spring Boot.md",
     "Sem título.canvas",
     "Fase 1 - Fundamentos Teórico do REST/Boas práticas.md",
     "Fase 2 - Primeiros passos em Spring Boot 3 com Java 18",
-    "Definições/API RESTFul.md",
-    "Fase 1 - Fundamentos Teórico do REST/Versionamento.md",
-    "Testes.md",
-    "2024-03-07.md",
-    "Fase 1 - Fundamentos Teórico do REST/Autenticação - FASE 1.md",
-    "Definições/Testcontainers.md",
-    "Definições/JWT.md",
     "Arquivos/Imagens",
     "Arquivos",
     "Fase 1 - Fundamentos Teórico do REST",
