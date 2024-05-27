@@ -1,0 +1,3 @@
+Acesse aqui: [Mockaroo](https://www.mockaroo.com/)
+
+O Mockaroo é uma ferramenta online que permite criar dados fictícios, também conhecidos como dados de exemplo ou dados de teste, para simular diferentes situações. Por exemplo, se você precisa testar um programa ou um aplicativo que trabalha com informações de clientes, você pode usar o Mockaroo para gerar nomes, endereços, números de telefone e outras informações fictícias de clientes. Isso ajuda os desenvolvedores a testarem seus softwares sem usar informações reais, mantendo a privacidade e a segurança dos dados. É como um gerador de informações falsas para testes.

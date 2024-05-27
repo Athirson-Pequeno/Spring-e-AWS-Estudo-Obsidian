@@ -11,7 +11,7 @@ tags:
 - 3 [[AWS]]
 - 4 [[Docker]]
 - 5 [[Definições/Swagger]]
-- 6 [[JWT]]
+- 6 [[Definições/JWT]]
 - 7 [[API RESTFul]]
 - 8 [[Spring Boot]]
 - 9 [[@Bean]]
