@@ -4,65 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0d1391dd21bae5a0",
+        "id": "8427dcac0e3780b4",
         "type": "tabs",
         "children": [
           {
-            "id": "55d81cc5c4d382f6",
+            "id": "df617db5ec1fdd24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fase 4 - CORS/Configurar CORS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efea94fb4f4a18f0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f9f0825f8d96c21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sumário FASE-3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a0501044ba09d3e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240514103554.png"
-              }
-            }
-          },
-          {
-            "id": "963b69686842bc4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fase 5 - Query Params e Busca Paginada/Query Params.md",
+                "file": "Fase 6 - Download e Upload de arquivos/Upload.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fase 5 - Query Params e Busca Paginada/Query Params.md",
+                "file": "Fase 6 - Download e Upload de arquivos/Upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fase 5 - Query Params e Busca Paginada/Query Params.md",
+                "file": "Fase 6 - Download e Upload de arquivos/Upload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fase 5 - Query Params e Busca Paginada/Query Params.md"
+                "file": "Fase 6 - Download e Upload de arquivos/Upload.md"
               }
             }
           }
@@ -189,25 +146,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "963b69686842bc4a",
+  "active": "df617db5ec1fdd24",
   "lastOpenFiles": [
-    "Fase 5 - Query Params e Busca Paginada/Mockaroo.md",
-    "Fase 5 - Query Params e Busca Paginada/Query Params.md",
-    "[Mockaroo - Random Data Generator and API Mocking Tool.md",
-    "Pasted image 20240514103554.png",
-    "Fase 5 - Query Params e Busca Paginada",
+    "Fase 6 - Download e Upload de arquivos/Download.md",
+    "Fase 6 - Download e Upload de arquivos/Upload.md",
+    "Testes.md",
+    "Fase 6 - Download e Upload de arquivos",
+    "Sumário FASE-5.md",
     "Sumário.md",
+    "Arquivos/Imagens/Pasted image 20240514103554.png",
+    "Sem título.canvas",
+    "[Mockaroo - Random Data Generator and API Mocking Tool.md",
     "Sumário FASE-4.md",
+    "Fase 4 - CORS/Configurar CORS.md",
     "Sumário FASE-3.md",
     "Links Utéis.md",
+    "Fase 5 - Query Params e Busca Paginada/Query Params.md",
+    "Fase 5 - Query Params e Busca Paginada/Mockaroo.md",
+    "Fase 5 - Query Params e Busca Paginada",
     "Sumário FASE-4",
     "Sumário Definição.md",
     "Fase 4 - CORS/JWT e Autenticação.md",
     "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Migrations.md",
-    "Fase 4 - CORS/Configurar CORS.md",
-    "Testes.md",
     "Definições/API RESTFul.md",
-    "Sem título.canvas",
     "Definições/Testcontainers.md",
     "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Test Containers.md",
     "Fase 4 - CORS",
@@ -221,10 +182,7 @@
     "Arquivos/Imagens/Pasted image 20240424164038.png",
     "Definições/HATEOAS.md",
     "Fase 1 - Fundamentos Teórico do REST/HATEOAS - FASE 1.md",
-    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Serializar yml (yaml).md",
     "Arquivos/Imagens/Pasted image 20240418174911.png",
-    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/Service.md",
-    "Fase 3 - Como usar os Verbos HTTP GET, POST, PUT e DELETE no Spring Boot/MySQL.md",
     "Arquivos/Imagens/Pasted image 20240418164350.png",
     "Arquivos/Imagens/Pasted image 20240418164252.png",
     "Arquivos/Imagens/Pasted image 20240327190859.png",
@@ -236,7 +194,6 @@
     "Arquivos/Imagens",
     "Arquivos",
     "Fase 1 - Fundamentos Teórico do REST",
-    "Arquivos/PDFS/Guia Básico de GIT.pdf",
-    "Arquivos/PDFS"
+    "Arquivos/PDFS/Guia Básico de GIT.pdf"
   ]
 }

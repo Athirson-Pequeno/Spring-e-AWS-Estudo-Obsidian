@@ -38,3 +38,8 @@ http://www.semeru.com.br/blog/en/**
 
 [Maven blog erudio](https://www.erudio.com.br/blog/entendendo-o-apache-maven/)
 [Pom do maven blog erudio](https://www.erudio.com.br/blog/entendendo-o-pom-do-maven/)
+
+
+### XLM para JAVA
+[Convert XML to JAVA Object Online - Json2CSharp Toolkit](https://json2csharp.com/code-converters/xml-to-java)
+
